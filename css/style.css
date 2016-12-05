@@ -145,4 +145,12 @@ h5 > a:hover:before {
     .skill-box{
         padding: 5%;
     }
+
+    .hero-description{
+        font-size: 1rem;
+    }
+
+    h5 > a{
+        font-size: 1.25rem;
+    }
 }
